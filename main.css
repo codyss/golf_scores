@@ -1,0 +1,22 @@
+.page-header {
+    text-align: center;
+}
+
+.btn-group {
+    margin-left: 200px;
+    visibility: hidden;
+}
+
+#course-button {
+    width: 200px;
+    text-align: right;
+}
+
+#leaderboard {
+    width:500px;
+    margin: auto;
+}
+
+#load-scores {
+    margin-left: 200px;
+}
